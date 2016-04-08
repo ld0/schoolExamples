@@ -3,7 +3,7 @@
 ; FinalProject.asm
 ; Implement a Discrete Logarithm Calculator
 ; In x86 assembly
-; Lindsey Dale 
+; L D 
 ; MATH4530 CSCI4130
 ; May 1 2015  
 ;-------------------------------------------
